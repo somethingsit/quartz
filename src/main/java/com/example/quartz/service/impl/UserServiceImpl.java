@@ -8,6 +8,6 @@ public class UserServiceImpl implements UserService {
 
     @Override
     public void handleUser() {
-        System.out.print("****HANDLE USER****");
+        System.out.print("*****HANDLE USER*****");
     }
 }
